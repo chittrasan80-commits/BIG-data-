@@ -1,5 +1,0 @@
-pyspark>=3.5
-pandas<3
-pyarrow
-cassandra-driver
-scikit-learn
